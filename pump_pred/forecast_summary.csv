@@ -1,0 +1,7 @@
+forecast,value
+"Tomorrow (2026-11-17) hours, Baseline: always 24h",24.0
+Tomorrow P(full 24h),0.9933921125763167
+Tomorrow P(outage <12h),0.0013905723726391791
+December 2026 mean h/day,20.3022
+December 2026 P10 h/day,16.258064516129032
+December 2026 P90 h/day,23.612903225806452
